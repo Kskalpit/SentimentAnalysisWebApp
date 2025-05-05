@@ -1,1 +1,1 @@
-from . import senti
+from .sentiment_analysis import sentiment_analyser
